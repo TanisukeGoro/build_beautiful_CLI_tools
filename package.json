@@ -1,0 +1,22 @@
+{
+  "name": "oss_tools",
+  "version": "1.0.0",
+  "description": "Beautiful CLI application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanisukeGoro/build_beautiful_CLI_tools.git"
+  },
+  "author": "Okita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TanisukeGoro/build_beautiful_CLI_tools/issues"
+  },
+  "homepage": "https://github.com/TanisukeGoro/build_beautiful_CLI_tools#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
+}
